@@ -1,0 +1,13 @@
+*.iml
+.idea/*
+!.idea/codeStyleSettings.xml
+!.idea/copyright/
+
+.gradle/
+build/
+out/
+projectFilesBackup/
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
