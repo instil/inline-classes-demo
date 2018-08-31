@@ -12,10 +12,6 @@ buildscript {
 }
 
 apply plugin: "kotlin"
-apply plugin: 'application'
-
-applicationDefaultJvmArgs = ["-ea"]
-mainClassName = "co.instil.inline.classes.Main"
 
 group 'co.instil'
 version '1.0'
